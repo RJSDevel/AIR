@@ -12,13 +12,15 @@ TARGET = AIR
 TEMPLATE = app
 
 
-SOURCES =  main.cpp\
-           mainwindow.cpp \
-           gallary.cpp
+SOURCES = main.cpp\
+          mainwindow.cpp \
+          gallary.cpp
 
 HEADERS = mainwindow.h \
           gallary.h
 
-FORMS    += mainwindow.ui
+FORMS   = mainwindow.ui
 
-TRANSLATIONS += AIR_ru_RU.ts
+TRANSLATIONS = AIR_ru_RU.ts
+
+win32:RC_ICONS += android.ico

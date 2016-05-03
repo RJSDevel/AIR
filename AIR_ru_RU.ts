@@ -9,41 +9,26 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="57"/>
-        <source>Оригинальный Размер</source>
-        <translation type="unfinished"></translation>
+        <location filename="mainwindow.ui" line="54"/>
+        <location filename="mainwindow.cpp" line="29"/>
+        <source>Choose Images</source>
+        <translation type="unfinished">Выберите Изображения</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="78"/>
-        <source>xhdpi</source>
-        <translation type="unfinished"></translation>
+        <location filename="mainwindow.ui" line="61"/>
+        <location filename="mainwindow.cpp" line="61"/>
+        <source>Choose Folder</source>
+        <translation type="unfinished">Выберите папку</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="88"/>
-        <source>xxhdpi</source>
-        <translation type="unfinished"></translation>
+        <location filename="mainwindow.ui" line="145"/>
+        <source>Resize</source>
+        <translation type="unfinished">Нарезать</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="126"/>
-        <location filename="mainwindow.cpp" line="20"/>
-        <source>Выбрать Изображения</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mainwindow.ui" line="133"/>
-        <location filename="mainwindow.cpp" line="48"/>
-        <source>Выбрать Изображения</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mainwindow.ui" line="217"/>
-        <source>Нарезить</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mainwindow.cpp" line="22"/>
-        <source>Изображения (*.png *.jpg)</source>
-        <translation type="unfinished"></translation>
+        <location filename="mainwindow.cpp" line="31"/>
+        <source>Images (*.png)</source>
+        <translation type="unfinished">Изображения (*.png)</translation>
     </message>
 </context>
 </TS>
